@@ -1,2 +1,2 @@
 # insert-coins
- Free micropayments for GOdot Game Engine using LNP/BP
+ Free micropayments for Godot Game Engine using LNP/BP
